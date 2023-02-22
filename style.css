@@ -1,0 +1,26 @@
+p {
+    font-style: italic;
+}
+div, p, span{ font-size: 12pt;}
+
+
+span{
+    background-color: wheat;
+    font-weight: bold;
+}
+h1{
+    font-size: 100px;
+    color: blue;
+}
+div{
+    font-size: medium;
+    background-color: aqua;
+    color: black;
+}
+#div1 {
+    background-color: black;
+}
+.p01 {
+    font-style: oblique;
+    font-size: 100px;
+}
